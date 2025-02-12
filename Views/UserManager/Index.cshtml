@@ -1,0 +1,42 @@
+﻿@model ICollection<UserViewModel>
+
+<a class="btn btn-outline-success mb-3 " asp-action="Create">Add New User</a>
+
+<table class="table table-bordered text-center">
+    <tr>
+        <th>UserName</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Roles</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+
+
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.UserName</td>
+            <td>@user.FirstName</td>
+            <td>@user.LastName</td>
+            <td>@user.Email</td>
+            @if (user.Roles.Count > 0)
+            {
+                <td>
+                    @string.Join(" , ", user.Roles.ToList())
+                </td>
+            }
+            else
+            {
+                <td>Not Assigned To Role</td>
+            }
+
+            <td><a class="btn btn-outline-info" asp-action="Update" asp-route-UserName="@user.UserName">Update</a></td>
+            <td><a class="btn btn-outline-danger" asp-action="Delete" asp-route-UserName="@user.UserName">Delete User</a></td>
+        </tr>
+    }
+
+
+
+</table>

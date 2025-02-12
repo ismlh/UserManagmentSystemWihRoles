@@ -1,0 +1,67 @@
+﻿@model RigsterViewModel
+
+
+@{
+    ViewData["Title"] = "Create User";
+}
+
+<h2>Create User</h2>
+
+<form asp-action="Create" method="post" >
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="UserName" class="control-label"></label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserEmail" class="control-label"></label>
+        <input asp-for="UserEmail" class="form-control" />
+        <span asp-validation-for="UserEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password" class="control-label"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ConfirmPassworded" class="control-label"></label>
+        <input asp-for="ConfirmPassworded" type="password" class="form-control" />
+        <span asp-validation-for="ConfirmPassworded" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="FirstName" class="control-label"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName" class="control-label"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    @foreach (var role in ViewBag.Roles)
+    {
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="Roles" value="@role.Name" id="@role.Name" />
+            <label class="form-check-label" for="@role.Name">@role.Name</label>
+        </div>
+    }
+
+    
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

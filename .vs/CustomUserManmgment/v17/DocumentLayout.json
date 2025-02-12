@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IdentityDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\usermanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\usermanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\viewmodels\\updateuserdatabyadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:viewmodels\\updateuserdatabyadminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\viewmodels\\rigsterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:viewmodels\\rigsterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\viewmodels\\updateuserinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:viewmodels\\updateuserinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\usermanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\usermanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\usermanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\usermanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\usermanage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\usermanage\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IdentityDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\controllers\\usermanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:controllers\\usermanagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IdentityDb/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|d:\\islamfront\\back\\practice\\customusermanmgment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30E13735-40E2-4281-81A7-03C38740A8B3}|CustomUserManmgment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_User_Managment_SystemTrusted_Connection_True/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211111752_makeImageNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250211111752_makeImageNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211110107_FullNameDerived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250211110107_FullNameDerived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211105735_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250211105735_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManager\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserManager\\Create.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManager\\Create.cshtml",
+              "RelativeToolTip": "Views\\UserManager\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:16:08.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserViewModel.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:03:22.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserManager\\Index.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManager\\Index.cshtml",
+              "RelativeToolTip": "Views\\UserManager\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T22:02:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagerController.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\UserManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserManagerController.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\UserManagerController.cs",
+              "RelativeToolTip": "Controllers\\UserManagerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:02:51.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:25:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateUserInfoViewModel.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\UpdateUserInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UpdateUserInfoViewModel.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\UpdateUserInfoViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UpdateUserInfoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:41:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:17:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IdentityDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-11T11:19:29.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:50:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RigsterViewModel.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\RigsterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RigsterViewModel.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\RigsterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RigsterViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:16:38.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManager\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserManager\\Update.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManager\\Update.cshtml",
+              "RelativeToolTip": "Views\\UserManager\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:43:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateUserDataByAdminViewModel.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\UpdateUserDataByAdminViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UpdateUserDataByAdminViewModel.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\UpdateUserDataByAdminViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UpdateUserDataByAdminViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:58:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T11:01:45.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:41:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:52:30.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IdentityDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-11T14:27:56.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleManagerController.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\RoleManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleManagerController.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\RoleManagerController.cs",
+              "RelativeToolTip": "Controllers\\RoleManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:39:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\RoleManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\RoleManager\\Index.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\RoleManager\\Index.cshtml",
+              "RelativeToolTip": "Views\\RoleManager\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:43:16.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:54:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/IdentityDb/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-11T14:31:04.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T11:01:48.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManage\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\UserManage\\Update.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\UserManage\\Update.cshtml",
+              "RelativeToolTip": "Views\\UserManage\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T11:42:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserManageController.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\UserManageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserManageController.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Controllers\\UserManageController.cs",
+              "RelativeToolTip": "Controllers\\UserManageController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADgvxYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:40:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T11:45:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:53:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250211111752_makeImageNullable.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211111752_makeImageNullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250211111752_makeImageNullable.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211111752_makeImageNullable.cs",
+              "RelativeToolTip": "Migrations\\20250211111752_makeImageNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:17:52.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T11:45:21.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T10:49:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250211110107_FullNameDerived.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211110107_FullNameDerived.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250211110107_FullNameDerived.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211110107_FullNameDerived.cs",
+              "RelativeToolTip": "Migrations\\20250211110107_FullNameDerived.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:01:07.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250211105735_identity.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211105735_identity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250211105735_identity.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Migrations\\20250211105735_identity.cs",
+              "RelativeToolTip": "Migrations\\20250211105735_identity.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:57:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\IslamFront\\Back\\Practice\\CustomUserManmgment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:50:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_User_Managment_SystemTrusted_Connection_True/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-11T11:19:05.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
